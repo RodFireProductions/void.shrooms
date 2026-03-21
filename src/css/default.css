@@ -220,7 +220,7 @@ td { border-left: dashed var(--f_high) 1px; border-bottom: dashed var(--f_high) 
 }
 .members .slug { grid-area: slug; text-align: center; }
 .members .button { grid-area: button; }
-.members img { grid-area: button; margin: 5px 5px 5px auto; }
+.members img { grid-area: button; margin: 5px 5px 5px auto; width: 88px; }
 .members .site { grid-area: site; text-align: right; }
 .members .nickname { grid-area: nick; }
 .members .description { grid-area: desc; text-align: center; }
